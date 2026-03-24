@@ -69,7 +69,7 @@ If you want to adapt these skills for your own search:
 
 1. **Start with the charter.** The automation is only as good as the criteria behind it. Use the template to define what you actually want before building anything. I've added mine as a reference for a finished product.
 2. **Create your rubric.** Translate your charter into scored dimensions and hard filters. The rubric in this repo is mine — yours will look different.
-3. **Set up the skills in a Claude Project.** Copy the SKILL.md files and update them with your rubric, target domains, and filters.
+3. **Set up the skills in Claude Code.** Copy the SKILL.md files and update them with your rubric, target domains, and filters.
 4. **Optional: Add a cron job + Telegram bot.** If you want daily results delivered to your phone, [Telegram's bot tutorial](https://core.telegram.org/bots/tutorial) covers setup in minutes. You can set up a cron job in Claude Code.
 
 ---
