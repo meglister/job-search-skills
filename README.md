@@ -7,7 +7,7 @@ That turned into a journey of both intellectual discernment and hands-on buildin
 
 ## Starting with what I actually want
 
-The discernment work started with a job search charter — a tool from [*Never Search Alone* by Phyl Terry](https://www.neversearchalone.org/). It's a living document that forces you to get specific about your goals, what you love doing, what you won't tolerate, and what a company needs to look like for you to thrive. **I'm including [my version](charter.md) and the [template](charter-template.md) in this repo so anyone can fill out their own.**
+The discernment work started with a job search charter — a tool from [*Never Search Alone* by Phyl Terry](https://www.neversearchalone.org/). It's a living document that forces you to get specific about your goals, what you love doing, what you won't tolerate, and what a company needs to look like for you to thrive. **I'm including [my version](job-search-charter-meg) and the [template](job-search-charter-template) in this repo so anyone can fill out their own.**
 
 I'd created a version of this charter in 2023, so I uploaded that into a Claude project alongside work artifacts from the last three years — strategy docs, peer feedback, performance reviews, and Slack messages from moments that mattered. I prompted Claude to highlight overlaps with my existing charter and flag skills or weaknesses I hadn't identified.
 
@@ -33,13 +33,13 @@ Claude lets you create "skills" — custom instructions for specific, repeatable
 
 ### The job search skill
 
-**→ [`job-search/SKILL.md`](job-search/SKILL.md)**
+**→ [`job-search-skill-public.md`](job-search-skill-public.md)**
 
 This skill automates finding, filtering, and scoring postings. It searches across crypto, fintech, adtech, martech, and data platforms, then filters to only direct ATS pages (Lever, Greenhouse, Ashby) — because aggregators keep dead postings live. It applies my hard filters, scores what's left against the rubric, and maintains an exclusion list so I never see the same posting twice. I set up a cron job that runs it every morning and sends results via a Telegram bot. I review them over breakfast and decide which ones are worth pursuing. The whole cycle takes about fifteen minutes.
 
 ### The resume editing skill
 
-**→ [`resume-edit/SKILL.md`](resume-edit/SKILL.md)**
+**→ [`resume-edit-public.md`](resume-edit-public.md)**
 
 This skill handles tailoring. I pass it a job description link, and it clones my master resume, renames the copy with the company name, and edits bullets to emphasize the right scope, metrics, and domain language. Early versions hallucinated details about my experience — that's gotten dramatically better with feedback cycles. It turns a twenty-minute task into a five-minute review.
 
@@ -57,11 +57,11 @@ One thing I want to be clear about: AI can automate your grunt work and help you
 
 | File | Description |
 |------|-------------|
-| [`charter.md`](charter.md) | My 2026 job search charter |
-| [`charter-template.md`](charter-template.md) | Blank template — fill out your own |
+| [`job-search-charter-meg`](job-search-charter-meg) | My 2026 job search charter |
+| [`job-search-charter-template`](job-search-charter-template) | Blank template — fill out your own |
 | [`rubric.md`](rubric.md) | Scoring rubric with hard filters |
-| [`job-search/SKILL.md`](job-search/SKILL.md) | Claude skill for automated job searching |
-| [`resume-edit/SKILL.md`](resume-edit/SKILL.md) | Claude skill for resume tailoring |
+| [`job-search-skill-public.md`](job-search-skill-public.md) | Claude skill for automated job searching |
+| [`resume-edit-public.md`](resume-edit-public.md) | Claude skill for resume tailoring |
 
 ## Setup
 
