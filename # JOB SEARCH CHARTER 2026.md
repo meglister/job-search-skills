@@ -1,0 +1,102 @@
+# JOB SEARCH CHARTER 2026
+
+# My goals (2026–2031)
+
+- Find a role I can sustain and grow in for the next 5 years, where my work and my life as a mother both have room to thrive.
+- Prioritize lifestyle fit over title and comp: full‑time, meaningful work with synchronous hours contained to roughly 9–5 ET, minimal fire drills, and no expectation of constant availability outside that window.
+- Take on GM / Head‑of‑X / Senior PM‑plus scope with a clearly defined mandate, explicit boundaries, and a real CEO / executive team who own existential risk, fundraising, and ultimate strategy. I want deep ownership over a well‑scoped domain, not de facto founder or shadow‑CEO responsibility.
+- Join a remote‑first, well‑funded company with real traction and upside (e.g., strong revenue, late‑stage funding, or clear path to a meaningful exit), and play a visible role in taking a product from “working” to “winning” commercially. I want this role to become a story I can point to: “I helped take X from Y to Z, and the market rewarded it in a big way.”
+- Optimize for intellectual stimulation and accomplishment: I want most days at 5pm to feel like my brain got a great workout and I moved a hard thing forward in a measurable way, while still having the energy and attention to be fully present with my family.
+- Stay open to Web3 and adjacent spaces where my experience is a differentiator, but treat mission passion as a nice‑to‑have, not a must‑have. The primary filter is that the product is intellectually interesting and the work fits cleanly into my life.
+
+## What I’m good at that I also love
+
+- Turning messy markets into clear product strategy: synthesizing user research, ecosystem trends, and competitive analysis into simple, compelling narratives and roadmaps (e.g., “Gitcoin = Grants”, “Grants = Growth”, CASE).
+- Owning a product or business area end‑to‑end—revenue, adoption, and strategy—within a clearly defined mandate (GM / Head‑of‑X style work, not de facto founder).
+- Learning new mechanisms, markets, and business models (e.g., new crypto regulations, new EIPs, and AI capabilities) and quickly getting them to the “explain it clearly and decide what to do” stage.
+- A focused fast pace: moving quickly on a well‑defined set of bets rather than juggling endless, unprioritized workstreams.
+- Managing/mentoring and growing small, high‑leverage teams (1–4 direct reports or indirect leadership of a cross-functional group): identifying gaps, hiring/onboarding, and helping people stretch into new skill sets, including designing clear roles and growth paths so people know what success looks like.
+- Player/coach roles: staying close to the work on big features or 0→1 products while also setting direction, as long as team size and scope stay within sustainable bounds.
+- Translating complex or novel mechanisms into clear stories and strategic choices—turning ambiguity into a small number of concrete “how we win” options with recommended next steps.
+- Thought‑partnering with founders, protocol leaders, and engineering leads—translating their ideas into coherent product bets, and then turning those bets into plans the org can execute.
+
+## Thank you, next
+
+- Sustained micromanagement or long stretches of work that are purely execution/detail with no strategic thinking or ownership.
+- Working with leaders or peers whose values I don’t share or whose competence I don’t respect—especially in key product, engineering, or exec roles.
+- Being under‑utilized: repetitive work, not enough real problems to solve, or spending most of my time on things I already know how to do.
+- Environments where chaos is normalized: constant fire drills, shifting priorities, unclear ownership, and leadership confusion that routinely blow up my day and evenings.
+- Roles that depend on me saying yes to everything—filling structural gaps, catching all the unowned work, or routinely operating far outside my defined scope just to keep the lights on.
+- Cultures where stating or enforcing reasonable boundaries (e.g., daycare pickup at 5pm, limited travel, doctors appointments) is subtly or overtly penalized in performance, influence, or opportunity.
+- High‑politics environments where decisions are driven by ego, favoritism, or optics rather than customer impact, data, and clear strategy.
+
+## Must‑haves
+
+- Remote‑first company with explicit core hours that align to roughly 9–5 ET for meetings, and a culture that expects async work—not quick responses—outside that window.
+- A+ product, engineering, and exec peers whose judgment and competence I respect, and whose working style I understand. I want to be part of a grown‑up leadership team, not the one propping it up.
+- A product that is either user‑facing or intellectually rich enough that the problem space genuinely interests me—complex mechanisms, markets, or systems I’m excited to think about every day.
+- A clearly defined mandate (GM / Head‑of‑X / Senior PM‑plus) with explicit boundaries on what I own, who I manage (0–4 directs), and what success looks like—so the role doesn’t silently expand into “own everything.”
+- A CEO and exec team who are present, own existential risk and fundraising, and can articulate a coherent strategy so I’m not filling a strategic vacuum.
+- A company with clear signs of traction and upside—meaningful revenue, strong retention, and/or later‑stage funding (e.g., Series B/C+)—and a believable path to a big outcome (scaled business or meaningful exit).
+- Organization that practices disciplined prioritization: a small number of big bets, clear tradeoffs, and a real habit of saying no, not a feature factory or “everything is priority 1.”​
+- Culture that values candor, collaboration, and psychological safety over politics and heroics, where people communicate clearly and take accountability.
+- An environment where working parents are normal, not exceptional, and where setting boundaries around childcare and family is respected in practice, not just in policy.
+- At least some women and broader diversity in my peer group and leadership, so I’m not the lone “different” voice in the room.
+
+## Must‑nots
+
+- Any role that requires relocation; I want remote‑first with occasional, planned domestic travel (ideally ~quarterly, no international).
+- Situations where I’m expected to carry existential responsibility for the company, protocol, or fund without the title, equity, authority, or true desire to be that person.
+- Cultures where constant emergencies, late‑night fire drills, and surprise scope changes are the norm rather than the exception.
+- Roles being invented or contorted around me where the company doesn’t have a clear, validated need and success definition—these tend to be fuzzy and expand in all directions.
+- Environments where the roadmap is a reactive backlog of requests with no clear strategy, outcome metrics, or ability to say no.
+- Cultures where advancement and decisions are dominated by politics, ego, or internal drama instead of customer impact and clear results.
+- Jobs that require regular meetings outside 9–5 ET, frequent short‑notice travel, or tacit “always on” availability that conflicts with my role as a parent.
+- Expectations that I will routinely absorb work far outside my scope just because I can or because there’s a vacuum, without re‑scoping or resourcing the role.
+
+# Appendix: Interview questions I’ll use to test fit
+
+Product & engineering leadership competence
+“Walk me through a recent product or feature you shipped end‑to‑end. What problem were you solving, how did you validate it, and what tradeoffs did you make?”
+“How did you decide whether it was successful, and what did you do next based on the results?”
+“Can you share or describe artifacts from that process (PRD, discovery summary, roadmap slice, experiment doc)? How heavy or light are they?”
+“Tell me about a time you killed or walked away from a big initiative. What led to that decision?”
+
+Strategy, ownership, and decision‑making
+“Tell me about a recent strategic ambiguity or conflict the exec team had to resolve. What was the disagreement, and how did you get to a decision?
+“If there’s a cross‑functional problem—say, growth slowing in a product line—who owns deciding what to do?”
+“How do you avoid everything landing on the same 1–2 people as the default problem‑solvers?”
+
+Culture, chaos, and boundaries
+“In the last quarter, what are examples of true emergencies that required people to work nights or weekends? What percentage of those were unavoidable versus avoidable in hindsight?”
+“What are your expectations for Slack/email responsiveness outside core hours? How do leaders model that in practice?”
+“How do you support working parents or caregivers on the team? Can you share a recent example?”
+“When someone says ‘that’s outside my scope’ or sets a boundary around capacity, how is that handled here?”
+
+Company maturity and success potential
+“How do you describe the company’s stage and traction today (revenue, users, funding, key milestones)? What does a big win look like in 3–5 years?”
+“What needs to be true—product, market, org—for you to get to that outcome, and where are the biggest risks right now?”
+
+# Role / company archetypes
+
+Remote Head of Product / GM for a product line at a growth‑stage B2B or crypto‑adjacent company
+Stage: Series B–C, strong revenue and retention, clear growth story.
+Role: Head of X or Product Lead for a crypto, analytics, or FinTech‑like product area. Owns strategy, roadmap, and outcomes for that slice, with 2–4 PM/PMM/ops reports.
+Why it fits you: Leverages your Gitcoin and Flipside experience in crypto, data, and ecosystem products; gives you GM‑style ownership without full C‑level existential responsibility.
+
+Senior/Staff Product Manager in a mature product org (remote‑first tech company)
+Stage: Later‑stage private or public tech company with a strong product org, dual IC/management tracks, and clear processes.
+Role: Senior or Staff PM on a strategic platform, marketplace, or data product with meaningful revenue impact; likely 0–1 direct reports and heavy cross‑functional influence.
+Why it fits you: High intellectual challenge, clear metrics, strong peers, and space to “kill it” within 9–5 ET and bounded scope. You get the accomplishment and commercial win you’re seeking without having to carry an entire org.
+
+# Networking story + elevator pitch
+
+## Elevator pitch (30–45 seconds)
+
+“I’m a product and business leader who’s spent the last decade taking products from 0→1 and then scaling them. Most recently, I was GM of Grants Lab at Gitcoin, where I launched and scaled their first SaaS grants platform and helped major ecosystems like Optimism, Polygon, and Arbitrum run high‑stakes grants programs on‑chain. Before that I was VP of Product & Operations at Flipside, where I was the founding PM and helped grow revenue from a few million to over $10M by building our flagship analytics products and a Web3 analytics community. I’m now looking for a remote‑first role where I can own a meaningful product area end‑to‑end, inside a strong leadership team, and help take a product from ‘working’ to ‘truly winning’ over the next few years.”
+
+## Longer networking story (2–3 minutes)
+
+I’ve basically built my career in “product plus” roles at the intersection of product, strategy, and growth. I started in ad tech and marketing, and over time moved into Web3 and data‑driven products. At Flipside, I came in as the founding PM and helped design and launch their main analytics platform. We took it from early revenue to a business that supported an $11M+ run rate and a $50M Series A, largely by listening closely to customers and then tightening the strategy around what actually drove value.
+From there, I joined Gitcoin to lead product and eventually stepped into a GM role. I led the Grants Stack product vision and the Grants Lab strategy—basically building tools and playbooks so that ecosystems like Optimism, Polygon, and others could use grants as a real growth lever rather than just a feel‑good program. That meant everything from product vision and mechanism evaluation, to pricing, to working with protocol leadership on ‘how we win’ in a pretty ambiguous space.
+Over the last year I also became a mom, and that’s shifted my lens a bit. I still want to have a big impact and do hard, interesting work—but I’m now optimizing for roles that are commercially meaningful, intellectually challenging, and sustainable. Concretely, I’m looking for a remote‑first role where I can own a well‑defined product area—something crypto, data, or marketplace‑adjacent—with a competent, low‑politics leadership team. Ideally it’s a company with real traction and upside where, in five years, we can point to a clear win together.
