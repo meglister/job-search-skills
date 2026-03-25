@@ -57,8 +57,8 @@ One thing I want to be clear about: AI can automate your grunt work and help you
 
 | File | Description |
 |------|-------------|
-| [`job-search-charter-meg`](job-search-charter-meg) | My 2026 job search charter |
-| [`job-search-charter-template`](job-search-charter-template) | Blank template — fill out your own |
+| [`job-search-charter-meg.md`](job-search-charter-meg.md) | My 2026 job search charter |
+| [`job-search-charter-template.md`](job-search-charter-template.md) | Blank template — fill out your own |
 | [`rubric.md`](rubric.md) | Scoring rubric with hard filters |
 | [`job-search-skill-public.md`](job-search-skill-public.md) | Claude skill for automated job searching |
 | [`resume-edit-public.md`](resume-edit-public.md) | Claude skill for resume tailoring |
