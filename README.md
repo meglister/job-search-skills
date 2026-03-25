@@ -45,13 +45,13 @@ This skill handles tailoring. I pass it a job description link, and it clones my
 
 ### Iteration notes
 
-Neither skill started polished. The search skill needed several iterations: restricting sources to ATS pages, switching from native web crawling to [Exa](https://exa.ai/docs/reference/exa-mcp), adding hard exclusion filters for industries I'd never consider, and building the deduplication list. Like any good product, it got better through a few rounds of "well, that could have been better."
+Neither skill started polished. The search skill needed several iterations: restricting sources to ATS pages, switching from native web crawling to [Exa](https://exa.ai/docs/reference/exa-mcp), adding hard exclusion filters for industries I'd never consider, and building the deduplication list. Like any good product, it improved after a few rounds of "well, that could have been better."
 
 ## What it's added up to
 
 I'm still mid-search, but I'm happy with what the process has produced. I've juggled a much higher volume of applications than I could have otherwise — and more importantly, the right ones. The skills and automations are helping me stay more honest and true to my criteria than I have in the past.
 
-One thing I want to be clear about: AI can automate your grunt work and help you keep yourself honest, but it can't replace human connections. Through my last two searches, I've had a regular meeting with a small group of friends job-seeking in similar industries, and I can't recommend that highly enough. AI could go to zero tomorrow and that group would still be the most valuable part of any job search.
+One thing I want to be clear about: AI can automate your grunt work and help you keep yourself honest, but it can't replace human connections. Through my last two searches, I've had a regular meeting with a small group of friends job-seeking in similar industries, and I can't recommend that highly enough. I’ve also been incredibly grateful to friends who have introduced me to opportunities. AI could go to zero tomorrow and the humans would still be the most valuable part of any job search.
 
 ## What's in this repo
 
@@ -67,8 +67,8 @@ One thing I want to be clear about: AI can automate your grunt work and help you
 
 If you want to adapt these skills for your own search:
 
-1. **Start with the charter.** The automation is only as good as the criteria behind it. Use the template to define what you actually want before building anything. I've added mine as a reference for a finished product.
-2. **Create your rubric.** Translate your charter into scored dimensions and hard filters. The rubric in this repo is mine — yours will look different.
+1. **Start with the charter.** The automation is only as good as the criteria behind it. Use the template to define what you actually want before building anything. I've added mine as a reference for a finished product. I included a potential prompt to get you started.
+2. **Create your rubric.** Translate your charter into scored dimensions and hard filters. I included a prompt to get you started. The rubric in this repo is mine — yours will look different.
 3. **Set up the skills in Claude Code.** Copy the SKILL.md files and update them with your rubric, target domains, and filters.
 4. **Optional: Add a cron job + Telegram bot.** If you want daily results delivered to your phone, [Telegram's bot tutorial](https://core.telegram.org/bots/tutorial) covers setup in minutes. You can set up a cron job in Claude Code.
 
