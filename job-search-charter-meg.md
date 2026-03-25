@@ -1,14 +1,13 @@
 # JOB SEARCH CHARTER 2026
 This is my actual Job Search Charter -- I'm providing it as an example of what a fully-filled out one looks like!
 
-# My goals (2026–2031)
-
+## My goals (2026–2031)
 - Find a role I can sustain and grow in for the next 5 years, where my work and my life as a mother both have room to thrive.
-- Prioritize lifestyle fit over title and comp: full‑time, meaningful work with synchronous hours contained to roughly 9–5 ET, minimal fire drills, and no expectation of constant availability outside that window.
 - Take on GM / Head‑of‑X / Senior PM‑plus scope with a clearly defined mandate, explicit boundaries, and a real CEO / executive team who own existential risk, fundraising, and ultimate strategy. I want deep ownership over a well‑scoped domain, not de facto founder or shadow‑CEO responsibility.
 - Join a remote‑first, well‑funded company with real traction and upside (e.g., strong revenue, late‑stage funding, or clear path to a meaningful exit), and play a visible role in taking a product from “working” to “winning” commercially. I want this role to become a story I can point to: “I helped take X from Y to Z, and the market rewarded it in a big way.”
 - Optimize for intellectual stimulation and accomplishment: I want most days at 5pm to feel like my brain got a great workout and I moved a hard thing forward in a measurable way, while still having the energy and attention to be fully present with my family.
-- Stay open to Web3 and adjacent spaces where my experience is a differentiator, but treat mission passion as a nice‑to‑have, not a must‑have. The primary filter is that the product is intellectually interesting and the work fits cleanly into my life.
+- Prioritize lifestyle fit over title and comp: full‑time, meaningful work with synchronous hours contained to roughly 9–5 ET, minimal fire drills, and no expectation of always-on availability outside that window.
+- Stay open to Web3 and adjacent spaces where my experience is a differentiator, but treat mission passion as a nice‑to‑have, not a must‑have. The primary filter is that the product is intellectually interesting.
 
 ## What I’m good at that I also love
 
@@ -35,11 +34,11 @@ This is my actual Job Search Charter -- I'm providing it as an example of what a
 
 - Remote‑first company with explicit core hours that align to roughly 9–5 ET for meetings, and a culture that expects async work—not quick responses—outside that window.
 - A+ product, engineering, and exec peers whose judgment and competence I respect, and whose working style I understand. I want to be part of a grown‑up leadership team, not the one propping it up.
-- A product that is either user‑facing or intellectually rich enough that the problem space genuinely interests me—complex mechanisms, markets, or systems I’m excited to think about every day.
+- A product that is intellectually rich and complex enough that the problem space genuinely interests me—complex mechanisms, markets, or systems I’m excited to think about every day. The product should be unlocking new capabilities, not saving someone time.
 - A clearly defined mandate (GM / Head‑of‑X / Senior PM‑plus) with explicit boundaries on what I own, who I manage (0–4 directs), and what success looks like—so the role doesn’t silently expand into “own everything.”
 - A CEO and exec team who are present, own existential risk and fundraising, and can articulate a coherent strategy so I’m not filling a strategic vacuum.
 - A company with clear signs of traction and upside—meaningful revenue, strong retention, and/or later‑stage funding (e.g., Series B/C+)—and a believable path to a big outcome (scaled business or meaningful exit).
-- Organization that practices disciplined prioritization: a small number of big bets, clear tradeoffs, and a real habit of saying no, not a feature factory or “everything is priority 1.”​
+- Organization that practices disciplined prioritization: a small number of big bets, clear tradeoffs, not a feature factory or “everything is priority 1.”​
 - Culture that values candor, collaboration, and psychological safety over politics and heroics, where people communicate clearly and take accountability.
 - An environment where working parents are normal, not exceptional, and where setting boundaries around childcare and family is respected in practice, not just in policy.
 - At least some women and broader diversity in my peer group and leadership, so I’m not the lone “different” voice in the room.
